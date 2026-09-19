@@ -13,3 +13,5 @@ In this unit, you will learn how Java uses **classes and objects** to create you
 * Understand how variables and objects are stored in **memory**, including the stack, heap, primitive values, and references.
 * Understand **variable scope** and how it affects where variables can be used.
 * Recognize common exceptions related to objects, including `NullPointerException`.
+
+This unit comes with a library of classes. Their documentation can be found [here](./SimpleClassLibDocs.md)

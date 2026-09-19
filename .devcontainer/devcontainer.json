@@ -41,7 +41,8 @@
                     "**/.gitignore": true
                 },
                 "java.project.referencedLibraries": [
-                    ".devcontainer/Peek.jar"
+                    ".devcontainer/Peek.jar",
+                    ".devcontainer/SimpleClassLib.jar"
                 ],
                 "github.copilot.enable": {
                     "*": false
